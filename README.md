@@ -12,3 +12,6 @@ Spring Boot server runs in port 8090
 
 **H2 DB url**
 http://localhost:8091/h2-console
+
+username : sa
+password:
